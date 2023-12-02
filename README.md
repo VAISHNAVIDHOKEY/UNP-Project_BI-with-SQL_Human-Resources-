@@ -28,4 +28,5 @@ During my internship at United Network Professionals (UNP), I worked on this pro
 12)Average Performance Rating.
 
 SQL Link:- https://drive.google.com/file/d/1jwS7X-SD6ob4xVWYeoFXhnlWMeQAaaK_/view?usp=sharing
-PPT Link:-
+
+PPT Link:- https://docs.google.com/presentation/d/1njExgap_SHy6XDUurw4jqoj_UtucmrFL/edit?usp=sharing&ouid=112289090707937140480&rtpof=true&sd=true
